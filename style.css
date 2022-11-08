@@ -63,7 +63,7 @@ html, body {
     line-height: 25px;
 }
 .row .bg-img {
-	background-image:url("/assets/Banner-Image.png");
+	background-image:url("assets/Banner-Image.png");
 	background-repeat:no-repeat;
 	background-size:cover;
 }
@@ -140,7 +140,7 @@ html, body {
     font-weight: 700;
 }
 .client-logo {
-    background: url(/assets/Ellipse\ 4.png);
+    background: url(assets/Ellipse\ 4.png);
     background-size: contain;
 }
 .feature-section {
@@ -174,7 +174,7 @@ html, body {
     justify-content: center;
     align-items: center;
     background: #03C6A8;
-    background-image: url(/assets/Group\ 52.png);
+    background-image: url(assets/Group\ 52.png);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
